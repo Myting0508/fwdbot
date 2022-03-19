@@ -37,7 +37,7 @@
       "description": "URL photo",
       "default": "https://telegra.ph/file/e3a3518f862f0dd16fa33.jpg",
       "required": false
-    },
+    }
   },
   "buildpacks": [
     {
